@@ -19,4 +19,5 @@
 
 [-] Screenshot Protection not included
 
-
+credits to 
+@IChooseYou (leak_k_process method)
